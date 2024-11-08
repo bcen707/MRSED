@@ -4,8 +4,9 @@ Music can be described as a series of waves and vibrations that propagate and re
 
 
 ### Scientific definition of sound:
-**"Music and sound impinge upon our body and our mind and we can react to both either positively or negatively" (Reybrouck, Podlipniak, Welch).**
+**"Music and sound impinge upon our body and our mind and we can react to both either positively or negatively" (Reybrouck et al.).**
 
 Data Sources:
-- M Reybrouck, P Podlipniak, D Welch. "Music and Noise: Same or Different? What Our Body Tells Us."
- https://pmc.ncbi.nlm.nih.gov/articles/PMC6603256/
+- Reybrouck, Mark, et al. “Music and Noise: Same or Different? What Our Body Tells Us.” Frontiers in Psychology, vol. 10, June 2019, p. 1153. pmc.ncbi.nlm.nih.gov, https://doi.org/10.3389/fpsyg.2019.01153.
+
+
