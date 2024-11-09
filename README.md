@@ -13,10 +13,10 @@ Data Sources:
 ## Other viral human sensory studies!
 
 Yanny vs. Laurel:
-www.reddit.com/r/videos/comments…_yanny_or_laurel/
-www.wired.com/story/the-fundamen…f-yanny-vs-laurel/
-live959.com/local-master-engine…l-phenomenon-audio/
+- www.reddit.com/r/videos/comments…_yanny_or_laurel/
+- www.wired.com/story/the-fundamen…f-yanny-vs-laurel/
+- live959.com/local-master-engine…l-phenomenon-audio/
 
-Bllue/Gold Dress:
-en.wikipedia.org/wiki/The_dress
-new.nsf.gov/news/was-dress-gold…white-or-blue-black
+Blue/Gold Dress:
+- en.wikipedia.org/wiki/The_dress
+- new.nsf.gov/news/was-dress-gold…white-or-blue-black
