@@ -1,5 +1,5 @@
 # 0.0 Abstract 
-Music can be described as a series of waves and vibrations that propagate and reflect in a medium through time and space. For plants and animals, air is the most common medium sound travels through before tingling senses. Music varies widely across Earth and it's 7 continents; empirically, sound can be fast, slow, loud, quiet, and society has engineered numerous manual and interactive devices that differ significantly in how they produce sound, modifying the geometry and amplitude of the resulting waves.
+Music can be described as a series of waves and vibrations that propagate and reflect in a medium through time and space. For plants and animals, air is the most common medium sound travels through before tingling senses. Music varies widely across Earth and its 7 continents; empirically, sound can be fast, slow, loud, quiet, and society has engineered numerous manual and interactive devices that differ significantly in how they produce sound, modifying the geometry and amplitude of the resulting waves.
 
 
 
