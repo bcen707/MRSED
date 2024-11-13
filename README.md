@@ -1,7 +1,10 @@
 # 0.0 Abstract 
 Music can be described as a series of waves and vibrations that propagate and reflect in a medium through time and space. For plants and animals, air is one common medium sound travels through before tingling and activating senses. Music varies widely across Earth and its 7 continents; empirically, sound can be fast, slow, loud, quiet, and society has engineered numerous manual, automatic, and interactive devices that differ significantly in how they produce sound, modifying the geometry and amplitude of the resulting waves.
 
-
+# 0.1 Research Questions
+1. What is sound?
+2. How can soundwave and/or vibrations be quantified?
+3. How can soundwave and/or vibrations be differentiated?
 
 ### Scientific definition of sound:
 **"Music and sound impinge upon our body and our mind and we can react to both either positively or negatively. Much depends, in this regard, on the frequency spectrum and the level of the sound stimuli..." (Reybrouck et al.).**
