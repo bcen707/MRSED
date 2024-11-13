@@ -15,11 +15,11 @@ Music can be described as a series of waves and vibrations that propagate and re
 
 ### Other viral human sensory studies!
 
-#### Yanny vs. Laurel audiosensory paradox:
+#### Yanny vs. Laurel? audiosensory paradox:
 - www.reddit.com/r/videos/comments…_yanny_or_laurel/
 - www.wired.com/story/the-fundamen…f-yanny-vs-laurel/
 - live959.com/local-master-engine…l-phenomenon-audio/
 
-#### Blue/Gold Dress Optical Illusion:
+#### Blue or Gold Dress? Optical Illusion:
 - en.wikipedia.org/wiki/The_dress
 - new.nsf.gov/news/was-dress-gold…white-or-blue-black
