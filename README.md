@@ -3,8 +3,8 @@ Music can be described as a series of waves and vibrations that propagate and re
 
 # 0.1 Research Questions
 1. What is sound?
-2. How can soundwave and/or vibrations be quantified?
-3. How can soundwave and/or vibrations be differentiated?
+2. How can soundwaves and/or vibrations be quantified?
+3. How can soundwaves and/or vibrations be differentiated?
 
 ### Scientific definition of sound:
 **"Music and sound impinge upon our body and our mind and we can react to both either positively or negatively. Much depends, in this regard, on the frequency spectrum and the level of the sound stimuli..." (Reybrouck et al.).**
